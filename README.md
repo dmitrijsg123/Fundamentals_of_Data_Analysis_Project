@@ -1,0 +1,2 @@
+# Fundamentals_of_Data_Analysis_Project
+Simple Linear Regression Model
