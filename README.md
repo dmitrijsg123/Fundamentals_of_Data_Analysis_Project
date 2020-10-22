@@ -9,11 +9,19 @@ Linear Regression is a statistical technique which is used to find the linear re
 Linear Regression can be further classified into two types – Simple and Multiple Linear Regression. In this project we employ Simple Linear Regression technique where we have one independent and one dependent variable. It is the simplest form of Linear Regression where we fit a straight line to the data.
 
 
+Libraries
+The main program used for the project is Anaconda which is installed on my computer. The work is done with Jupyter Notebook. The Python libraries used in this project are:
+• Pandas – It provides tools for data storage, manipulation and analysis tasks.
+• Numpy – It provides a fast numerical array structure and operating functions.
+• Matplotlib – It is the basic plotting library in Python. It provides tools for making plots.
+• Scikit-Learn – The required machine learning library in Python.
+
 
 
 
 
 
 REFERENCES
+https://www.youtube.com/watch?v=CtKeHnfK5uA - "Linear Regression, fun and easy machine learning"
 https://web.microsoftstream.com/video/d7f6286f-42a4-4264-b008-3391e5085152?referrer=https:%2F%2Flearnonline.gmit.ie%2F
 https://en.wikipedia.org/wiki/Linear_regression
