@@ -28,6 +28,9 @@ The main program used for the project is Anaconda which is installed on my compu
 
 • Matplotlib – It is the basic plotting library in Python. It provides tools for making plots.<br>
 
+Seaborn - Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. <br>
+
+
 • Scikit-Learn – The required machine learning library in Python.
 
 
